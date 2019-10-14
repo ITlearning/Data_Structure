@@ -1,0 +1,4 @@
+﻿  CheckPalindrome.c
+f:\자료구조\pre10_2checkpalindrome\pre10_2checkpalindrome\checkpalindrome.c(76): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+  pre10_2CheckPalindrome.vcxproj -> F:\자료구조\pre10_2CheckPalindrome\Debug\pre10_2CheckPalindrome.exe

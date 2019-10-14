@@ -1,0 +1,8 @@
+﻿  소스.c
+f:\자료구조\project1\project1\소스.c(50): warning C4033: 'pop'은(는) 값을 반환해야 합니다.
+f:\자료구조\project1\project1\소스.c(58): warning C4033: 'peek'은(는) 값을 반환해야 합니다.
+f:\자료구조\project1\project1\소스.c(103): warning C4013: 'gerchar'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+f:\자료구조\project1\project1\소스.c(61): warning C4715: 'peek': 모든 제어 경로에서 값을 반환하지는 않습니다.
+f:\자료구조\project1\project1\소스.c(53): warning C4715: 'pop': 모든 제어 경로에서 값을 반환하지는 않습니다.
+소스.obj : error LNK2019: _gerchar 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+F:\자료구조\Project1\Debug\Project1.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
